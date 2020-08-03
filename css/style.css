@@ -1,0 +1,45 @@
+html {
+background-color: black;
+text-align: center;
+font-family: Verdana;
+}
+
+.header h1 {
+font-family: Verdana;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+
+.header p {
+color: aquamarine;
+font-size: 16px;
+font-family: Verdana;
+text-decoration: underline;
+}
+
+h2 {
+    color: white;
+font-size: 42px;
+font-family: Verdana;
+font-weight: 300;
+}
+
+.texts p {
+font-family: Verdana;
+font-size: 21px;
+color: gray;
+}
+
+.textstwo p {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: Verdana;
+    text-decoration: underline;
+}
+
+footer p {
+text-align: right;
+color: gray;
+font-size: 20px;
+}
